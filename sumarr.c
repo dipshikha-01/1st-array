@@ -1,3 +1,4 @@
+/*Take an array as input. Print the sum of elements at odd indices and the product of elements at even indices.*/
 #include<stdio.h>
 int main()
 {
